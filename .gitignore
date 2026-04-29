@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset files - download from Kaggle
+diabetic_data.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

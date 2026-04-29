@@ -121,29 +121,7 @@ All queries are saved in the `sql/` folder:
 ---
 
 ## Repository Structure
-hospital-readmission-analysis/
-│
-├── hospital_readmission.ipynb      ← main analysis notebook
-├── description.pdf                 ← research article on hospital readmission rate for diabetes patients
-├── README.md                       ← project documentation
-├── LICENSE                         ← MIT License
-├── .gitignore                      ← excludes dataset files
-├── charts/                         ← all saved visualizations
-│   ├── readmission_overview.png
-│   ├── demographics_analysis.png
-│   ├── clinical_metrics.png
-│   ├── medication_analysis.png
-│   ├── specialty_risk.png
-│   ├── roc_curve.png
-│   ├── feature_importance.png
-│   ├── confusion_matrix_Logistic_Regression.png
-│   └── confusion_matrix_Random_Forest.png
-└── sql/                            ← all SQL query files
-├── 01_create_table.sql
-├── 02_patient_demographics.sql
-├── 03_readmission_analysis.sql
-├── 04_medication_analysis.sql
-└── 05_window_functions.sql
+<img width="707" height="459" alt="image" src="https://github.com/user-attachments/assets/2892f340-e80e-40b6-985e-82a4e5615de2" />
 
 ---
 
